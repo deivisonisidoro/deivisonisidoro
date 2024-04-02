@@ -47,8 +47,7 @@
   <strong>Status:</strong>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu3052&theme=tokyonight&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisonisidoro)](https://github.com/anuraghazra/github-readme-stats)
 
  ##
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
