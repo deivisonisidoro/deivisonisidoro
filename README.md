@@ -2,7 +2,6 @@
   <h1>Deivison Isidoro</h1>
 </div>
 <p align="left">Hello there, I am a mid-level software developer with a degree in Computer Science.</p>
-<img align="right" height="180em" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" />
 
 <p>
   <strong>Contact me:</strong>
@@ -28,7 +27,7 @@
   </details>
 
   <details>
-    <summary>Frameworks eTools</summary>  
+    <summary>Frameworks and Tools</summary>  
   
   ![Python](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Python](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
