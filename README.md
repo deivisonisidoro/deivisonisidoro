@@ -22,6 +22,7 @@
    <details>
     <summary>Languages</summary>
     
+   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
    ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
    ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   </details>
@@ -47,10 +48,7 @@
   <strong>Status:</strong>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisonisidoro)](https://github.com/anuraghazra/github-readme-stats)
-
- ##
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisonisidoro&theme=tokyonight&show_icons=true)
     
 
 
